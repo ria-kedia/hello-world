@@ -1,2 +1,2 @@
 # hello-world
-first code in github
+this is ria kedia, an engineering student of cse branch ,3rd sem.
